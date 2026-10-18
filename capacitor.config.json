@@ -1,0 +1,6 @@
+{
+  "appId": "com.dytfikretkurt.neontetris",
+  "appName": "Neon Tetris",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
